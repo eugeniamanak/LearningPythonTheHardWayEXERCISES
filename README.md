@@ -4,6 +4,6 @@ This repository contains the exercises proposed in the book "Learning Python the
 They are simple exercises in the beginning and then increase the difficulty and the concepts learned.
 You can run these exercises in any Python shell or Google colab.
 You can also run it in :
-PowerShell (Microsoft)
-Terminal (MacOS)
-Bash(Linux)
+PowerShell (Microsoft), 
+Terminal (MacOS), 
+Bash(Linux), 
