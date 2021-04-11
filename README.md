@@ -6,4 +6,4 @@ You can run these exercises in any Python shell or Google colab.
 You can also run it in :
 PowerShell (Microsoft), 
 Terminal (MacOS), 
-Bash(Linux), 
+Bash(Linux). 
